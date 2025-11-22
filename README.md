@@ -100,19 +100,3 @@ streamlit run app.py
 * Screenshots of sample outputs and negative test cases are available in the `images/` folder.
 
 ---
-
-## Screenshots
-
-![Sample Output](images/sample_output.png)
-
-**Negative Test Cases**:
-
-* Asking for data which is not there:
-
-![Data Not Found](images/Negative%20test%20cases/Asking%20for%20data%20which%20is%20not%20there.png)
-
-* Giving a column which is not present:
-
-![Invalid Column](images/Negative%20test%20cases/Giving%20column%20which%20is%20not%20present.png)
-
----
